@@ -14,3 +14,4 @@ group = df.groupby('Пища')['Средняя продолжительност�
 print(group)
 
 df.to_csv(path_or_buf='animal2.csv', index=False)
+
